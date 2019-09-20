@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+
+
+ul {
+	list-style-type: none;
+
+}
+li {
+	display: inline-block;
+}
+
+#header-page {
+	height: 300px;
+}
+#header-page .content-center {
+	text-align: center;
+}
+#login {
+	text-align: center;
+}
+.form-element input {
+	width: 300px;
+	height: 30px;
+	padding: 0 5px;
+	margin: 5px 0;
+	border-radius: 2px;
+	border: solid lightgray 1px;
+	font-size: 12px;
+}
+#registor {
+	text-align: center;
+}
